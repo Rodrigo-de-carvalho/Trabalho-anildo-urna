@@ -1,0 +1,17 @@
+# Copie para "urna.properties" (mesma pasta onde roda o programa) e ajuste.
+# Nenhuma opção é obrigatória: sem Firebase, os votos ficam em votos-locais.json.
+
+# JSON da conta de serviço do Firebase (Console > Configurações do projeto > Contas de serviço)
+#firebase.credenciais=firebase-credenciais.json
+
+# Coleção do Cloud Firestore onde os votos são gravados
+#firebase.colecao=votos
+
+# Arquivo local de votos (usado sem Firebase ou como reserva se a internet cair)
+#arquivo.votos=votos-locais.json
+
+# Outra eleição (cargos/partidos/candidatos fictícios). Modelo: src/main/resources/eleicao-padrao.json
+#eleicao.arquivo=minha-eleicao.json
+
+# Senha do mesário para ver a apuração e zerar a urna
+#mesario.senha=1234

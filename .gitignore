@@ -1,0 +1,12 @@
+target/
+*.class
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Nunca versionar credenciais nem votos
+urna.properties
+firebase-credenciais*.json
+*-firebase-adminsdk-*.json
+votos-locais.json

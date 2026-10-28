@@ -1,0 +1,31 @@
+{
+  "titulo": "Eleição Simulada - Urna Cidadã 2026",
+  "cargos": [
+    { "nome": "Vereador", "sistema": "PROPORCIONAL", "digitos": 5 },
+    { "nome": "Prefeito", "sistema": "MAJORITARIO" }
+  ],
+  "partidos": [
+    { "numero": 14, "sigla": "PGT", "nome": "Partido dos Gatos",    "cor": "#EF6C00" },
+    { "numero": 27, "sigla": "PCX", "nome": "Partido dos Cachorros", "cor": "#6D4C41" },
+    { "numero": 38, "sigla": "PLL", "nome": "Partido da Leitura",    "cor": "#1565C0" },
+    { "numero": 46, "sigla": "PMS", "nome": "Partido da Música",     "cor": "#8E24AA" },
+    { "numero": 59, "sigla": "PES", "nome": "Partido do Esporte",    "cor": "#2E7D32" }
+  ],
+  "candidatos": [
+    { "cargo": "Vereador", "numero": "14111", "nome": "Félix Ronron" },
+    { "cargo": "Vereador", "numero": "14222", "nome": "Nina Novelo" },
+    { "cargo": "Vereador", "numero": "27111", "nome": "Bidu Farejador" },
+    { "cargo": "Vereador", "numero": "27222", "nome": "Pipoca Caramelo" },
+    { "cargo": "Vereador", "numero": "38111", "nome": "Ana Biblioteca" },
+    { "cargo": "Vereador", "numero": "38222", "nome": "Beto Marcador" },
+    { "cargo": "Vereador", "numero": "46111", "nome": "Sami Samba" },
+    { "cargo": "Vereador", "numero": "46222", "nome": "Rita Pandeiro" },
+    { "cargo": "Vereador", "numero": "59111", "nome": "Bia Raquete" },
+    { "cargo": "Vereador", "numero": "59222", "nome": "Léo Maratona" },
+
+    { "cargo": "Prefeito", "numero": "14", "nome": "Mia Bigodes",    "vice": "Tom Novelo" },
+    { "cargo": "Prefeito", "numero": "27", "nome": "Rex Latido",     "vice": "Luna Focinho" },
+    { "cargo": "Prefeito", "numero": "38", "nome": "Clara Páginas",  "vice": "Lauro Capítulo" },
+    { "cargo": "Prefeito", "numero": "46", "nome": "Maestro Sol",    "vice": "Lia Melodia" }
+  ]
+}
