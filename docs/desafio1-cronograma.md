@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | **TÍTULO DO PROJETO** | Urna Cidadã: Simulação Educativa do Voto Eletrônico e Combate à Desinformação em Ano Eleitoral |
-| **CURSO** | Ciência da Computação |
+| **CURSO** | Análise e Desenvolvimento de Sistemas |
 | **SEMESTRE** | 2026.2 |
 | **DISCIPLINA** | Programação Orientada a Objetos |
-| **COMPONENTES DA EQUIPE** | 1. [Nome – matrícula]<br>2. [Nome – matrícula]<br>3. [Nome – matrícula]<br>4. [Nome – matrícula]<br>5. [Nome – matrícula] |
+| **COMPONENTES DA EQUIPE** | Victor Costa Cruz<br>Giovana Amaral dos Santos<br>Rodrigo de Carvalho Costa<br>Gabriel Coelho de Jesus Lopes |
 | **ESCOLA PARCEIRA** | [Nome da escola pública – Salvador/BA] |
 
 Meses de execução: **Mês 1 = Agosto · Mês 2 = Setembro · Mês 3 = Outubro · Mês 4 = Novembro · Mês 5 = Dezembro**
@@ -47,10 +47,11 @@ Meses de execução: **Mês 1 = Agosto · Mês 2 = Setembro · Mês 3 = Outubro 
 
 ## Divisão de responsabilidades (sugestão)
 
-| Integrante | Responsabilidade principal |
+| Responsabilidade principal | Integrante |
 |---|---|
-| [Nome 1] | Modelagem OO e regras da sessão de votação + testes |
-| [Nome 2] | Interface Swing (tela e teclado) |
-| [Nome 3] | Firebase / persistência e apuração |
-| [Nome 4] | Material educativo sobre fake news e deepfakes |
-| [Nome 5] | Contato com a escola, questionário e relatório final |
+| Modelagem OO, regras da sessão de votação e testes | [definir] |
+| Interface Swing (tela, teclado e apuração) | [definir] |
+| Firebase / persistência | [definir] |
+| Material educativo, contato com a escola, questionário e relatório final | [definir] |
+
+Equipe: Victor Costa Cruz, Giovana Amaral dos Santos, Rodrigo de Carvalho Costa e Gabriel Coelho de Jesus Lopes.

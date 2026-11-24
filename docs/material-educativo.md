@@ -77,4 +77,4 @@ Sim! O voto é **facultativo** dos 16 aos 17 anos e a partir dos 70, e **obrigat
 
 ---
 
-*Urna Cidadã — Projeto de Extensão, Ciência da Computação (POO). Todos os partidos e candidatos do simulador são fictícios. Ação apartidária, alinhada ao ODS 16 da ONU e à campanha #InformaçãoDeVerdade.*
+*Urna Cidadã — Projeto de Extensão, Análise e Desenvolvimento de Sistemas (POO). Todos os partidos e candidatos do simulador são fictícios. Ação apartidária, alinhada ao ODS 16 da ONU e à campanha #InformaçãoDeVerdade.*

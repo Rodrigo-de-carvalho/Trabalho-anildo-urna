@@ -28,7 +28,7 @@ final class TextosAjuda {
     static final String SOBRE = """
             URNA CIDADÃ - Simulação educativa do voto eletrônico
 
-            Projeto de Extensão Curricular - Ciência da Computação (POO)
+            Projeto de Extensão Curricular - Análise e Desenvolvimento de Sistemas (POO)
             Java + Swing + Firebase (Cloud Firestore)
 
             Todos os partidos e candidatos são FICTÍCIOS e não têm qualquer vínculo com

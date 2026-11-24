@@ -4,8 +4,8 @@
 > **Só preencher depois da oficina.** Os trechos entre `[ ]` são para completar; os textos já escritos podem ser mantidos ou adaptados.
 
 **Projeto:** Urna Cidadã – Simulação Educativa do Voto Eletrônico e Combate à Desinformação em Ano Eleitoral
-**Curso / Disciplina / Semestre:** Ciência da Computação – POO – 2026.2
-**Equipe:** [nomes e matrículas]
+**Curso / Disciplina / Semestre:** Análise e Desenvolvimento de Sistemas – POO – 2026.2
+**Equipe:** Victor Costa Cruz, Giovana Amaral dos Santos, Rodrigo de Carvalho Costa e Gabriel Coelho de Jesus Lopes
 **Escola parceira:** [nome] – **Turma(s):** [2º/3º ano ...] – **Data da oficina:** [__/__/2026]
 **Repositório:** [link do GitHub]
 

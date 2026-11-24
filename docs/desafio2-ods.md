@@ -1,8 +1,8 @@
 # Desafio 2 – Memorial: Correlação com os Objetivos de Desenvolvimento Sustentável (ODS)
 
 **Projeto:** Urna Cidadã – Simulação Educativa do Voto Eletrônico e Combate à Desinformação em Ano Eleitoral
-**Curso / Disciplina:** Ciência da Computação – Programação Orientada a Objetos – 2026.2
-**Equipe:** [nomes dos integrantes]
+**Curso / Disciplina:** Análise e Desenvolvimento de Sistemas – Programação Orientada a Objetos – 2026.2
+**Equipe:** Victor Costa Cruz, Giovana Amaral dos Santos, Rodrigo de Carvalho Costa e Gabriel Coelho de Jesus Lopes
 
 ---
 

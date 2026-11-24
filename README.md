@@ -2,7 +2,9 @@
 
 **Simulação educativa do voto eletrônico e combate à desinformação em ano eleitoral**
 
-Projeto de Extensão Curricular – Ciência da Computação – disciplina de Programação Orientada a Objetos (UNIJORGE, 2026.2).
+Projeto de Extensão Curricular – Análise e Desenvolvimento de Sistemas – disciplina de Programação Orientada a Objetos (UNIJORGE, 2026.2).
+
+**Equipe:** Victor Costa Cruz, Giovana Amaral dos Santos, Rodrigo de Carvalho Costa e Gabriel Coelho de Jesus Lopes.
 
 Simulador de urna eletrônica em **Java + Swing**, com persistência em nuvem no **Firebase (Cloud Firestore)**, para oficinas com estudantes do Ensino Médio. A votação é sequencial para dois cargos — **Vereador** (proporcional, 5 dígitos, com voto de legenda) e **Prefeito** (majoritário, 2 dígitos, com vice) — seguindo a lógica da urna real: teclas numéricas, **BRANCO**, **CORRIGE**, **CONFIRMA**, voto nulo, tela **FIM** e o bipe final.
 
